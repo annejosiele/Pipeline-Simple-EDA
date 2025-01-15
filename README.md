@@ -1,5 +1,4 @@
 # Pipeline-Simple-EDA
-# Pipeline Simple EDA
 
 ## Descrição do Projeto
 Este projeto consiste em um pipeline simples para Análise Exploratória de Dados (Exploratory Data Analysis - EDA) usando Python. O código realiza tarefas essenciais para preparação e exploração de dados, incluindo:
@@ -67,22 +66,6 @@ root/
 │   └── pipeline_simple_eda.py   # Script principal do pipeline
 ├── README.md                   # Documentação do projeto
 └── requirements.txt            # Lista de dependências do projeto
-```
-
-### Arquivo `requirements.txt`
-Crie um arquivo `requirements.txt` com as dependências do projeto:
-```
-pandas
-numpy
-seaborn
-matplotlib
-scipy
-scikit-learn
-```
-
-Para gerar este arquivo automaticamente, use:
-```bash
-pip freeze > requirements.txt
 ```
 
 ## Licença
